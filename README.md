@@ -9,7 +9,7 @@ Desenvolvimento de um sistema (API REST) de usuários e departamentos, que apres
 - Buscar um usuário pelo seu id;
 - Inserir um novo usuário.
 
-![Image](https://github.com/joaofmribeiro/
+![Image]([https://github.com/joaofmribeiro/](https://github.com/joaofmribeiro/api-spring/blob/main/img/Dominio.png)
 
 
 #### Configurações do banco de dados
