@@ -1,5 +1,5 @@
 # Projeto Java Web com Spring Boot
-[![GitHub license](https://img.shields.io/github/license/joaofmribeiro/java-springboot)](https://github.com/joaofmribeiro/api-spring/blob/main/LICENCE.md)
+[![GitHub license](https://img.shields.io/github/license/joaofmribeiro/api-spring)](https://github.com/joaofmribeiro/api-spring/blob/main/LICENCE.md)
 
 
 ## Sobre o o sistema
@@ -9,7 +9,7 @@ Desenvolvimento de um sistema (API REST) de usuários e departamentos, que apres
 - Buscar um usuário pelo seu id;
 - Inserir um novo usuário.
 
-![Image](https://github.com/joaofmribeiro/java-springboot/blob/master/img/Dominio.png)
+![Image](https://github.com/joaofmribeiro/
 
 
 #### Configurações do banco de dados
