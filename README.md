@@ -1,6 +1,6 @@
 # Projeto Java Web com Spring Boot
-[![GitHub license](https://img.shields.io/github/license/joaofmribeiro/java-springboot)](https://github.com/joaofmribeiro/api-spring/blob/main/LICENCE.md))
-
+[![GitHub license](https://img.shields.io/github/license/joaofmribeiro/java-springboot)(https://github.com/joaofmribeiro/api-spring/blob/main/LICENCE.md)
+]
 ## Sobre o o sistema
 Desenvolvimento de um sistema (API REST) de usuários e departamentos, que apresenta os seguintes casos de uso:
 
